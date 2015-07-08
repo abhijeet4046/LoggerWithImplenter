@@ -1,0 +1,13 @@
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\NhibernateTest.dll
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\NhibernateTest.pdb
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\Logger.dll
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\NHibernate.dll
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\nunit.framework.dll
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\Logger.pdb
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\NHibernate.xml
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\nunit.framework.xml
+D:\Abhijeet\Logger\Logger\NhibernateTest\obj\Debug\NhibernateTest.csprojResolveAssemblyReference.cache
+D:\Abhijeet\Logger\Logger\NhibernateTest\obj\Debug\NhibernateTest.dll
+D:\Abhijeet\Logger\Logger\NhibernateTest\obj\Debug\NhibernateTest.pdb
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\logImplementer.dll
+D:\Abhijeet\Logger\Logger\NhibernateTest\bin\Debug\logImplementer.pdb

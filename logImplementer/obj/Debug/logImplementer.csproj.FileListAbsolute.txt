@@ -1,0 +1,13 @@
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\logImplementer.dll
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\logImplementer.pdb
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\Logger.dll
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\NHibernate.dll
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\nunit.framework.dll
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\Iesi.Collections.dll
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\Logger.pdb
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\NHibernate.xml
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\nunit.framework.xml
+D:\Abhijeet\Logger\Logger\logImplementer\bin\Debug\Iesi.Collections.xml
+D:\Abhijeet\Logger\Logger\logImplementer\obj\Debug\logImplementer.csprojResolveAssemblyReference.cache
+D:\Abhijeet\Logger\Logger\logImplementer\obj\Debug\logImplementer.dll
+D:\Abhijeet\Logger\Logger\logImplementer\obj\Debug\logImplementer.pdb

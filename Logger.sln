@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{AC515137-9855-47DC-B96A-1EBAE1890AAD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5266E20B-9E11-4FB1-9CA0-FB1C255D5816}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NhibernateTest", "NhibernateTest\NhibernateTest.csproj", "{74C9A17B-D5F4-4A1E-A8DE-183934BBFCB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logImplementer", "logImplementer\logImplementer.csproj", "{C66347B6-E0B5-4AA9-BF95-28DEDE3DC069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC515137-9855-47DC-B96A-1EBAE1890AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC515137-9855-47DC-B96A-1EBAE1890AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC515137-9855-47DC-B96A-1EBAE1890AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC515137-9855-47DC-B96A-1EBAE1890AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C9A17B-D5F4-4A1E-A8DE-183934BBFCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C9A17B-D5F4-4A1E-A8DE-183934BBFCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C9A17B-D5F4-4A1E-A8DE-183934BBFCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C9A17B-D5F4-4A1E-A8DE-183934BBFCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66347B6-E0B5-4AA9-BF95-28DEDE3DC069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66347B6-E0B5-4AA9-BF95-28DEDE3DC069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66347B6-E0B5-4AA9-BF95-28DEDE3DC069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66347B6-E0B5-4AA9-BF95-28DEDE3DC069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
